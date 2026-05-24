@@ -1,7 +1,7 @@
 # 👋 Halo, Kami HMJ-TI UNISM
 
 <div align="center">
-  <img src="https://hmj-ti.unism.ac.id/wp-content/uploads/2024/10/cropped-logo-hmjti.png" width="150" alt="HMJ-TI UNISM Logo">
+  <img src="https://hmj-ti.unism.ac.id/wp-content/uploads/2024/08/hmj.png" width="150" alt="HMJ-TI UNISM Logo">
   
   ### Himpunan Mahasiswa Jurusan Teknologi Informasi  
   Fakultas Sains dan Teknologi - Universitas Sari Mulia
